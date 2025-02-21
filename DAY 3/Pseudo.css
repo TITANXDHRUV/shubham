@@ -1,0 +1,46 @@
+/* Pseudo Class */
+a:link {
+    color: aqua;
+}
+
+a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+a:active {
+    color: springgreen;
+}
+
+a:visited {
+    color: orange;
+}
+
+/* Pseudo Elements */
+h4::before{
+    content: "Ded ";
+}
+
+h4::after{
+    content: "Ded💀";
+}
+
+p {
+    color: rgb(4, 209, 255);
+    background-color: black;
+    text-align: justify;
+    padding: 10px;
+}
+p::first-letter{
+    color: red;
+    font-size: xx-large;
+}
+
+input {
+    color: pink;
+    outline-width: 80px;
+}
+
+input::placeholder {
+    color: deeppink;
+}

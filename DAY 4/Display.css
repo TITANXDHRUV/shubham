@@ -1,0 +1,15 @@
+h1,p,div{
+    background-color: brown;
+    display: block;
+    width: 200px;
+    height: 100px;
+}
+
+span,b,i,u {
+    background-color: aqua;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

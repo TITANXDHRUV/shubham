@@ -1,0 +1,33 @@
+i {
+    font-size: 100px;
+}
+
+.fa-whatsapp {
+    color: green;
+}
+
+.fa-instagram {
+    color: deeppink;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-spotify{
+    color: rgb(9, 189, 9);
+}
+
+.fa-telegram {
+    color: rgb(68, 159, 250);
+}
+
+.fa-github {
+    color: white;
+    background-color: black;
+}
+
+.fa-snapchat {
+    color: white;
+    background-color: yellow;
+}

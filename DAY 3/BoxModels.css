@@ -1,0 +1,20 @@
+h1 {
+    background-color: lightslategrey;
+    width: 130px;
+    /*
+    padding-top: 100px;
+    padding-left: 100px;
+    */
+    padding: 50px 30px 50px;
+    border: 25px inset darkcyan;
+    
+}
+
+h3 {
+    font-family: Arial, Helvetica;
+    background-color: aquamarine;
+    width: 100px;
+    padding: 50px;
+    border: 20px outset blue;
+    margin-left: 250px;
+}

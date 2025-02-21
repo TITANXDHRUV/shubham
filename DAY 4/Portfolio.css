@@ -1,0 +1,83 @@
+
+.box0{
+    font-size: xx-large;
+    letter-spacing: 2px;
+    line-height: 50px;
+    margin-left: 20PX;
+}
+
+.fa-circle {
+    color: red;
+}
+
+.container {
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+}
+
+.box {
+    padding-left: 20px;
+    height: 310px;
+    width: 510px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 40px;
+    letter-spacing: 3px;
+    margin-left: 10px;
+    background-color: rgb(250, 235, 240);
+}
+
+.box1 {
+    position: relative;
+    top: 10px;
+}
+
+.box2 {
+    position: relative;
+    top: 30px;
+}
+
+.box3 {
+    position: relative;
+    left: 550px;
+    bottom: 610px;
+}
+
+.box4 {
+    position: relative;
+    left: 550px;
+    bottom: 590px;
+}
+
+.box5 {
+    height: 610px;
+    width: 380px;
+    padding-top: 35px;
+    padding-left: 20px;
+    position: relative;
+    left: 1100px;
+    bottom: 1260px;
+}
+
+img {
+    height: 635px;
+}
+a {
+    color: rgb(5, 102, 5);
+}
+
+a:hover {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+p {
+    font-size: large;
+}
+
+i {
+    font-size: 40px;
+}

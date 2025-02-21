@@ -1,0 +1,60 @@
+img {
+    width: 650px;
+}
+
+.box1 {
+    text-align: center;
+    padding: 5px;
+    width: 45%;
+    height: 400px;
+    position: relative;
+}
+
+h1 {
+    color: cyan;
+    font-family: sans-serif;
+    
+}
+
+h2 {
+    color: rgb(23, 55, 69);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box2 {
+    padding-top: 90px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 45%;
+    height: 360px;
+    left: 50%;
+    bottom: 415px;
+}
+
+p::first-letter {
+    font-size: 200%;
+    font-weight: bold;
+    color: #f14f4d;
+}
+
+button {
+    border: none;
+}
+
+b {
+    color: rgb(32, 250, 50);
+}
+p {
+    line-height: 25px;
+    letter-spacing: 2px; 
+    text-align: justify;
+}
+
+.dibv {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
